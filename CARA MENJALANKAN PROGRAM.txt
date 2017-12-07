@@ -1,0 +1,6 @@
+CARA MENJALANKAN PROGRAM
+1.buka file FUZZY_LOGIC menggunakan NetBeans IDE
+2.klik kanan pada file FUZZY_LOGIC.JAVA
+3.pilih run
+
+TERIMA KASIH
